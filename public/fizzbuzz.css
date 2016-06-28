@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+	background-image: url('images/polygon.jpg');
+	background-size: cover;
+	font-family: courier;
+}
+
+h1 {
+	color: white;
+	border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+	font-size: 60px;
+	font-weight: bolder;
+	padding: 15px;
+	display: inline-block;
+	margin-top: 12%;
+}
+
+h2 {
+	color: white;
+}
+
+
+
+input[type=text] {
+    padding:5px; 
+    border:2px solid #ccc;
+    text-align: center;
+    font-size: 16px;
+    -webkit-border-radius: 2px;
+    font-weight: bolder;
+    border-radius: 2px;
+}
+
+input[type=text]:focus {
+    border-color:black;
+}
+
+input[type=submit] {
+	margin-top: 20px;
+    padding:10px 15px; 
+    background:white; 
+    border:0 none;
+    font-family: courier;
+    font-weight: bolder;
+    font-size: 16px;
+    cursor:pointer;
+    -webkit-border-radius: 2px;
+    border-radius: 2px; 
+}
+
