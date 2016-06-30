@@ -41,7 +41,7 @@ input[type=text]:hover {
 input[type=submit] {
 	margin-top: 20px;
     padding:10px 15px;
-    background:white;
+    background:#FFE495;
     border:0 none;
     font-family: courier;
     font-weight: bolder;
@@ -52,5 +52,5 @@ input[type=submit] {
 }
 
 input[type="submit"]:hover {
-    background-color: #FFE495;
+    background-color: #FFB17C;
 }
